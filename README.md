@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(to bottom, #1e293b, #0f172a); padding: 20px; border-radius: 10px;">
-  <img height="200" width="100%" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="border-radius: 10px;" />
+  <img height="200" width="100%" src="https://i.postimg.cc/bNc3Qqrf/1558900050534.jpg" style="border-radius: 30px;" />
 </div>
 
 <h1 align="center" style="font-family: 'Arial Black', sans-serif; color: #38bdf8;">Hi, I'm Anika Jasim Ema</h1>
@@ -38,7 +38,7 @@
 ---
 
 <h2 align="center"> My Skill Set</h2>
-<table>
+<table width='100%'>
   <tr>
     <td valign="top" >
       <h3 align="center" style="color: #38bdf8;">Frontend</h3>
