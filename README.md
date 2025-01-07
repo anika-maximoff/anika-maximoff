@@ -6,7 +6,7 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #facc15;">Fullstack Developer | Bangladesh 🇧🇩</h2>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/anika-jasim-ema-93293b325/" target="blank"><img src="https://img.shields.io/twitter/follow/mekat?logo=twitter&style=for-the-badge" alt="mekat" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/anika-jasim-ema-93293b325/" target="blank"><img src="https://img.shields.io/twitter/follow/mekat?logo=twitter&style=for-the-badge" alt="EMA" /></a> </p>
 
 ---
 
